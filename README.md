@@ -15,7 +15,7 @@
 
 ###
 
-<h4 align="left">My name is Arianna and I'm a Third Year CS Student @ Rutgers learning to develop human-centered tech. Nice to e-meet you! 👩🏽‍💻</h4>
+<h4 align="left">My name is Arianna and I'm CS Student @ Rutgers learning to develop human-centered tech. Nice to e-meet you! 👩🏽‍💻</h4>
 
 ###
 

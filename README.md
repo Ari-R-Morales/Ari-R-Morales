@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🎓 Junior @ Rutgers University — CS Major + Creative Writing Minor  <br><br>🛠 Currently working on: autism well-being dashboard, marketing analytics strategy, full-stack projects.<br><br>📝 Research Assistant exploring community well-being tech and health data visualization accessible to local leaders.<br> <br>📰 Marketing Director for The Daily Targum, the student newspaper where I lead a team of AEs to expand our advertising partnerships.</p>
+<p align="left">🎓 Senior @ Rutgers University — CS Major + Creative Writing Minor  <br><br>🛠 Currently working on: autism well-being dashboard, marketing analytics strategy, full-stack projects.<br><br>📝 Research Assistant exploring community well-being tech and health data visualization accessible to local leaders.<br> <br>📰 Marketing Director for The Daily Targum, the student newspaper where I lead a team of AEs to expand our advertising partnerships.</p>
 
 ###
 
@@ -51,6 +51,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
